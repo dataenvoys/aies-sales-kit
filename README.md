@@ -20,7 +20,6 @@ Repozytorium zawiera prezentację i ulotki wspierające rozmowy z klientami o **
 * **Rozmowa z liderem AI:** prześlij one-pager dla liderów AI.
 * **Rozmowa z IT lub bezpieczeństwem:** prześlij one-pager dla IT i bezpieczeństwa.
 * **Analiza dużych zbiorów dokumentów:** pokaż materiał o Turbo Search i Module Analityki Dokumentowej.
-* **Rozmowa po angielsku:** wykorzystaj anglojęzyczny przegląd platformy i zastosowań.
 
 ## Aktualizacja materiałów
 
