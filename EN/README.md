@@ -16,7 +16,7 @@ The links below use suggested filenames for the English editions. Upload the PDF
 | [Business one-pager](AIES-one-pager-business-en-v6.pdf) | A concise overview for business decision-makers: working with company knowledge, supporting decisions, and managing access, answer quality and costs. |
 | [AI leaders one-pager](AIES-one-pager-AI-leaders-en-v6.pdf) | For teams building AI agents: configuration, company knowledge, agent councils, integrations and quality evaluation. |
 | [IT and security one-pager](AIES-one-pager-IT-security-en-v6.pdf) | Azure deployment, roles and permissions, policies, monitoring and platform operations. |
-| [AI agent council use cases](AIES-leaflet-agent-council-use-cases-en) | Six examples: RFPs and proposals, contract analysis, complaints, IT and security incidents, company knowledge, and management decisions. |
+| [AI agent council use cases](AIES-leaflet-agent-council-use-cases-en.pdf) | Six examples: RFPs and proposals, contract analysis, complaints, IT and security incidents, company knowledge, and management decisions. |
 | [Turbo Search — Document Analytics Module](AIES-turbo-search-one-pager-en.pdf) | Turning document collections into structured data, generating reports, and passing selected data or documents to AI agents. |
 
 ## How to use these materials
